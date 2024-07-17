@@ -5,7 +5,7 @@ import (
 	"io"
 	"log"
 
-	"github.com/rosedblabs/wal"
+	"github.com/leaf-rain/wal"
 )
 
 func main() {

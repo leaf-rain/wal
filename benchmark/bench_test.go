@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/rosedblabs/wal"
+	"github.com/leaf-rain/wal"
 	"github.com/stretchr/testify/assert"
 )
 
